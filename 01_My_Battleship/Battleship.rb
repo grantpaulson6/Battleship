@@ -1,4 +1,4 @@
-#require_relative "CPU_player"
+
 require_relative "Battleship_Bot"
 require "colorize"
 

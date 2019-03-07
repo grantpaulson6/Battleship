@@ -1,4 +1,3 @@
-require "/Users/grantpaulson6/Documents/GitHub/colorize/lib/colorize.rb"
 
 class CPU_player
     
