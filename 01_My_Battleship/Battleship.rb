@@ -1,4 +1,3 @@
-
 require_relative "Battleship_Bot"
 require "colorize"
 
