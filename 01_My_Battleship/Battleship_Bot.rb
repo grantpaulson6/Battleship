@@ -1,4 +1,4 @@
-require "/Users/grantpaulson/Documents/GitHub/colorize/lib/colorize.rb"
+require "colorize"
 
 class Battleship_Bot
     
